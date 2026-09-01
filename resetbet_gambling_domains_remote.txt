@@ -1,0 +1,33 @@
+# ResetBet - lista remota de dominios bloqueados
+# Formato: um dominio por linha
+# Nao incluir http://, https://, caminhos ou portas
+# Linhas iniciadas por # sao comentarios
+
+vaidebet.bet.br
+betpix365.bet.br
+obabet.bet.br
+jogajunto.bet.br
+bra.bet.br
+xx.bet.br
+tropino.bet.br
+bz.bet.br
+55w.bet.br
+ice.bet.br
+kbet.bet.br
+nossa.bet.br
+1xbet.bet.br
+betcaixa.bet.br
+megabet.bet.br
+xbetcaixa.bet.br
+bau.bet.br
+milhao.bet.br
+jogalimpo.bet.br
+energia.bet.br
+mmabet.bet.br
+betvip.bet.br
+papigames.bet.br
+esportivavip.bet.br
+cbesportes.bet.br
+donosdabola.bet.br
+vert.bet.br
+cgg.bet.br
