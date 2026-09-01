@@ -31,3 +31,4 @@ cbesportes.bet.br
 donosdabola.bet.br
 vert.bet.br
 cgg.bet.br
+example.com
